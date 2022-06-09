@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("https://www.fonewalls.com/wp-content/uploads/2019/10/Gradient-Background-Wallpaper-161.jpg");
+    background-attachment: fixed;
+}
+
+.font {
+    font-family: 'Eagle Lake', cursive;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bolder;
+    position: relative;
+    border-color: transparent;
+    top: 2vh;
+}
+
+.header {
+    background-color: transparent;
+    height: 8vh;
+    color: white;
+    box-shadow: none;
+}
+
+.img {
+    background-image: url("img/b_boy.jpeg");
+    width: 45vw;
+    height: 25vh;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border: 2px solid yellow;
+    border-radius: 20px;
+}
+
+.content {
+    width: 90%;
+    height: 35vh;
+    margin-left: 38px;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.items li {
+    list-style: none;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+    color: yellow;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container {
+    height: 80vh;
+    width: 99%;
+}
+
+p.center {
+    font-family: 'Nunito', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+
+.lin1 {
+    text-decoration: none;
+    color: yellow;
+}
+
+.under {
+    text-decoration: underline;
+    color: rgb(18, 176, 81);
+}
+
+.bottom {
+    width: 100%;
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 50vh;
+    padding: 10px;
+    color: yellow;
+    width: 90%;
+    background-color: transparent;
+}
+
+.video {
+    width: 99%;
+    height: 25vh;
+    position: absolute;
+    top: 111vh;
+    margin-left: 18px;
+}
+
+.i {
+    margin-left: 15vw;
+}
+
+.vd {
+    width: 90vw;
+    height: 25vh;
+}
